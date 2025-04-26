@@ -1,0 +1,9 @@
+images/
+.ipynb_checkpoints/
+data/
+.DS_Store
+cache/
+Screenshots/
+my-project/
+UA_IRP_EJ/
+Old code.ipynb
