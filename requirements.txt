@@ -9,3 +9,5 @@ shapely
 scikit-learn
 scipy
 plotly
+mapclassify
+leafmap
