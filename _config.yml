@@ -1,7 +1,0 @@
-title: Geodemographic Classifications and Urban Crime: A Spatial Analysis of London
-author: Elena Jarrett
-bibtex_bibfiles:
-  - _bibliography/references.bib
-sphinx:
-  config:
-    bibtex_reference_style: author_year
