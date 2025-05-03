@@ -8,10 +8,10 @@
 **Title: Geodemographic Classifications and Urban Crime: A Spatial Analysis of London**  
 
 **Abstract:**  
-*Insert abstract summarising the project's aims, methods, findings, and significance.*
+This study investigates the spatial dynamics of crime in London by developing a geodemographic classification of Output Areas (OAs) using 2021 Census data and 2024 police crime records. Applying K-Means clustering, four distinct geodemographic clusters were identified, ranging from Deprived Urban Centres to Suburban Affluent Areas, each exhibiting unique socio-economic and crime patterns. Violent and drug-related offences were most prevalent in deprived urban areas, while property crime and anti-social behaviour were highest in central zones populated by young professionals. Suburban areas showed lower crime rates, though variations between OAs existed. Property-related crimes accounted for the highest total number of offences, followed by violence against the person. Unexpectedly, house prices (2020) had a weak positive correlation with crime, suggesting the relationship is complex and influenced by other factors. The findings highlight the spatial patterns of crime, suggesting that socio-economic and demographic characteristics shape crime risk. The geodemographic classification approach offers practical insights for place-based policing and urban planning, supporting more equitable and effective strategies to promote safer, more resilient cities. 
 
 **Keywords:**  
-*Insert keywords here*
+Geodemographics, Spatial Crime Analysis, Urban Inequality, K-Means Clustering, London, Output Areas, Social Disorganisation Theory
 
 ## How to Replicate This Project
 
