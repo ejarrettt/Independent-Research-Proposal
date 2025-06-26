@@ -32,4 +32,4 @@ Follow the steps below to reproduce the analysis and results from this project.
 
 ### Option 2: Run Online with Binder 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ejarrettt/Independent-Research-Proposal/HEAD)
+
